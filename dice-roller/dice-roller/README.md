@@ -1,4 +1,4 @@
-# Dice Roller 🎲
+# Dice Roller Game🎲
 
 A simple Python program that simulates rolling a dice.
 
